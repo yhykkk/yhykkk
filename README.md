@@ -5,10 +5,13 @@
   <img src="https://count.getloli.com/@:yhykkk" alt=":yhykkk"?theme=gelbooru />
   <img src="https://github-readme-stats.vercel.app/api?username=yhykkk&show_icons=true&count_private=true&theme=shadow_blue" width="300px" height=/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhykkk&layout=compact&theme=shadow_blue" width="300px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhykkk&theme=gruvbox" width="300px" />
+</p>
+---
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhykkk&theme=gruvbox" width="300px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yhykkk&theme=gruvbox" />
 </p>
 
----
 <div>
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=yhykkk&bg_color=1&line=ADD8E6"/>
 </div>
