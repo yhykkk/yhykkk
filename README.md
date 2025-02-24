@@ -3,9 +3,9 @@
   <img align='right' src='https://i4.kurocore.com/i/lg/20240830135311/121963533-0.jpg' width='400px'>
   <p align="center">
   <img src="https://count.getloli.com/@:yhykkk" alt=":yhykkk"?theme=gelbooru />
-  <br/>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api?username=yhykkk&show_icons=true&count_private=true&theme=shadow_blue" width="300px" height=/>
-  <br/>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhykkk&layout=compact&theme=shadow_blue" width="300px" />
 </p>
 
