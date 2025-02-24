@@ -10,7 +10,6 @@
 ---
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhykkk&theme=gruvbox" width="300px" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yhykkk&theme=gruvbox"
 </p>
 
