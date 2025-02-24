@@ -15,7 +15,7 @@
 ---
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yhykkk&theme=nord_bright"
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yhykkk&theme=nord_bright&utcOffset=8"
 </p>
 
 <div>
