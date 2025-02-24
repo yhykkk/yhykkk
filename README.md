@@ -2,7 +2,7 @@
   <p>
   <img align='right' src='https://i4.kurocore.com/i/lg/20240830135311/121963533-0.jpg' width='220px'>
   </p>
-  <p align="center">
+  <p align="left">
   <img src="https://count.getloli.com/@:yhykkk" alt=":yhykkk"?theme=gelbooru />
   <img src="https://github-readme-stats.vercel.app/api?username=yhykkk&show_icons=true&count_private=true&theme=shadow_blue" width="300px" height=/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhykkk&layout=compact&theme=shadow_blue" width="300px" />
